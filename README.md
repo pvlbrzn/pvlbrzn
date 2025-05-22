@@ -55,7 +55,7 @@ I love building web apps, automating things, and connecting services with APIs &
 
 - 🐱 [**CatVision**](https://github.com/pvlbrzn/CatVision) – Remote webcam surveillance via Telegram bot + Flask. Supports live streaming, snapshots, and web access.
 - 🎓 [**IT School**](https://github.com/pvlbrzn/ITSchool) – Full-featured Django-based learning platform. Includes Telegram notifications, Celery tasks, custom admin panel and parsing.
-- 🌦 [**Weather App**](https://github.com/pvlbrzn/weather-app) – Simple Django app using OpenWeatherMap API. Displays weather, saves search history, and provides API access.
+- 🌦 [**Weather App**](https://github.com/pvlbrzn/the_weather_site) – Simple Django app using OpenWeatherMap API. Displays weather, saves search history, and provides API access.
 
 ---
 
