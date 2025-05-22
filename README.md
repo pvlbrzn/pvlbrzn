@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pavel 👋</h1>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="600" height="300" alt="coding gif"/>
 </p>
 
 <div align="center">
@@ -35,11 +35,8 @@ I love building web apps, automating things, and connecting services with APIs &
 <p>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" width="36" title="Django REST Framework"/>
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="36" title="Redis"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_celery_icon_130642.png" width="36" title="Celery"/>
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" title="Docker"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/playwright.svg" width="36" title="Playwright"/>
   <img src="https://img.icons8.com/fluency/48/000000/api.png" title="REST APIs"/>
   <img src="https://img.icons8.com/ios-filled/50/telegram-app.png" width="36" title="Telegram Bot API"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
