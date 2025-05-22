@@ -38,15 +38,16 @@ I love building web apps, automating things, and connecting services with APIs &
   <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="36" title="Redis"/>
   <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" title="Docker"/>
   <img src="https://img.icons8.com/fluency/48/000000/api.png" title="REST APIs"/>
-  <img src="https://img.icons8.com/ios-filled/50/telegram-app.png" width="36" title="Telegram Bot API"/>
+  <img src="https://img.icons8.com/color/48/telegram-app--v1.png" title="Telegram Bot API"/>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/48/github--v1.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux" title="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/windows" title="Windows"/>
 </p>
+
 
 ---
 
