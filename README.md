@@ -25,19 +25,28 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Python Developer** from Belarus <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I’m a **Python Developer** from Belarus 🇧🇾  
+I love building web apps, automating things, and connecting services with APIs & bots.
 
-**Tech Stack:**
+---
+
+### ⚙️ Tech Stack
 
 <p>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" title="Python"/>
   <img src="https://img.icons8.com/color/48/000000/django.png" title="Django"/>
-  <img src="https://repository-images.githubusercontent.com/260928305/92388600-8d1c-11ea-9993-a726466b5099" width="48" title="FastAPI"/>
-  <img src="https://img.icons8.com/color/48/000000/flask.png" title="Flask"/>
-  <img src="https://img.icons8.com/color/48/000000/pycharm.png" title="PyCharm"/>
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/000000/external-mysql-an-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="MySQL"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django-rest-framework.svg" width="36" title="Django REST Framework"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="36" title="Redis"/>
+  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_celery_icon_130642.png" width="36" title="Celery"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="40" title="Docker"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/playwright.svg" width="36" title="Playwright"/>
+  <img src="https://img.icons8.com/fluency/48/000000/api.png" title="REST APIs"/>
+  <img src="https://img.icons8.com/ios-filled/50/telegram-app.png" width="36" title="Telegram Bot API"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" title="Bootstrap"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
-  <img src="https://img.icons8.com/ios-filled/48/000000/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/github.png" title="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/linux" title="Linux"/>
   <img src="https://img.icons8.com/color/48/000000/windows" title="Windows"/>
 </p>
@@ -52,15 +61,6 @@ I’m a **Python Developer** from Belarus <img src="https://media.giphy.com/medi
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pvlbrzn&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pvlbrzn&theme=tokyonight" width="48%"/>
-</p>
-
----
-
 ### 📬 Contact
 
 - 📞 **Phone**: +375 (29) 855-15-11  
@@ -69,3 +69,7 @@ I’m a **Python Developer** from Belarus <img src="https://media.giphy.com/medi
 - 🔗 **LinkedIn**: [Pavel Berezan](https://www.linkedin.com/in/pavel-berezan/)
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pvlbrzn&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
