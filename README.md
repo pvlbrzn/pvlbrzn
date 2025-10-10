@@ -63,7 +63,7 @@ I love building web apps, automating things, and connecting services with APIs &
 
 - 📞 **Phone**: +375 (29) 855-15-11  
 - 💬 **Telegram**: [@pvlbrzn](https://t.me/pvlbrzn)  
-- 🌐 **Website**: [pvlbrzn.pythonanywhere.com](https://pvlbrzn.pythonanywhere.com)  
+- 🌐 **Fast deploy project**: [https://exchange-rates-ogdd.onrender.com](https://exchange-rates-ogdd.onrender.com)  
 - 🔗 **LinkedIn**: [Pavel Berezan](https://www.linkedin.com/in/pavel-berezan/)
 
 ---
